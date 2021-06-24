@@ -1,0 +1,3 @@
+- De 8 a 8
+- 8 motociclistas cada 30 minutos
+- Cuándo se presiona se pone en verde y ya no está disponible y si se vuelve a presionar lo libera, si otro usuario lo tomó, queda en rojo, y no se debe poder tomar
