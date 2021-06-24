@@ -1,0 +1,11 @@
+{% extends "platform.html" %}
+
+{% block titulo %}Login | {% endblock %}
+
+{% block contenido %}
+    <form class="contenedor-formulario rounded-lg grid justify-items-center" method="POST">
+        <h1 class="titulo">Ingreso</h1>
+        <input autocomplete="off" class="entrada-nombre focus:outline-none" placeholder="Ingrese su nombre de usuario" type="text" name="nombre">
+        <button class="boton rounded-lg">Ingresar</button> 
+    </form>
+{% endblock %}
