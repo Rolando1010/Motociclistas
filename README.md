@@ -6,5 +6,6 @@ Las tecnologías que se usaron:
   - HTML
   - CSS
   - Bootstrap
+  - Tailwind
   - JavaScript
   - XMLHTTPRequest
