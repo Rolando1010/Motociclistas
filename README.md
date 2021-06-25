@@ -7,4 +7,4 @@ Las tecnologías que se usaron:
   - CSS
   - Bootstrap
   - JavaScript
-  - XMLHttpRequest
+  - XMLHTTPRequest
